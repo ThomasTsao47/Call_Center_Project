@@ -1,4 +1,4 @@
-# 客服中心數據分析
+# 客服中心數據分析（Excel）
 
 ## 目錄
 * 專案概述
@@ -34,7 +34,7 @@
 * 警告：資料是作者提供Tableau社群夥伴針對不同行業的業務發展提供分析靈感所建立的虛假資料，並非真實的資料
 
 ## 工具使用
-* Excel 2019（Pivot tables, charts, formulas, conditional formatting, data cleaning, etc.）
+* Microsoft Excel 2019（Pivot tables, charts, formulas, conditional formatting, data cleaning, etc.）
 
 ## 商業問題
 * 影響客戶滿意度的原因?
