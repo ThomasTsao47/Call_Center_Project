@@ -66,8 +66,8 @@ Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribu
 <br>**函式使用**
 ![Formula used](Images/Formula_used.png)
 
-<br>**清洗後資料**
-![Cleaned Data](Images/Cleaned_Data.png)
+**清洗後資料**
+![Cleaned Data](Images/Cleaned_Data.png)<br><br>
 
 ## 資料分析
 此部分將分析數據指標並回答上述商業問題：（提醒：當陷入過度分析時要回頭檢視商業目標）<br>
