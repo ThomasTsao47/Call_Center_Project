@@ -1,4 +1,6 @@
 # 客服中心數據分析（Excel）
+![Call Center Picture](Images/CallCenter_from_Pixabay.jpg)
+Image by <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8643475">Gerd Altmann</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8643475">Pixabay</a>
 
 ## 目錄
 * 專案概述
@@ -70,7 +72,9 @@
 ## 資料分析
 此部分將分析數據指標並回答上述商業問題：（提醒：當陷入過度分析時要回頭檢視商業目標）<br>
 * 影響客戶滿意度的原因?
-* 客戶最常問哪種類型的問題?
+
+
+### 客戶最常問哪種類型的問題?
 * 各種客戶服務管道下的詢問佔比，滿意度及問題類型如何?
 * 客服回應客戶的時間多快?
 * 在一段時間內接到多少客服詢問數時，可能導致客服等待時間拉長?
